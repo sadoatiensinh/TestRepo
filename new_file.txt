@@ -1,4 +1,0 @@
-Hello
-This is a new file
-I'll learn to resolve conflicts when using GitHub
-My name is Lam
