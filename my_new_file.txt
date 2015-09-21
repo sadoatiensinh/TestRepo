@@ -1,0 +1,3 @@
+I am modifying this file in branch MASTER
+I am modifying this file in branch TESTING
+I am modifying this file again (TESTING)
